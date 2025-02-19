@@ -33,5 +33,5 @@ Session details such as session ID, cuisine, and email are stored in sessionTabl
 Use cookies to store user data and check if the session is new or old. This enhances session management and provides a seamless user experience.
 
 # Contributors
-1. Rohan Chopra
-2. Reet Nandy
+1. Vishu Shah
+2. Krish Shah
